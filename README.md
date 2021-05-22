@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bope142
+- 👋 salut! je suis @Bope142 Développeur web junior
 - 🌱  J'apprends actuelleme le développement web frontend et aussi la programmation avec le langage pascal orienté objet (Delphi /Firemonkey).
 - 💞️ Je cherche à collaborer sur Tous les différents projet cadrant avec mon domaine d'apprentissage (le développement web frontend).
 - � Comment me joindre: irnorbertyemuang@gmail.com
