@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Norbert Yemuang Bope</h1>
 <h3 align="center">A passionate frontend developer and developer full-stack Delphi from Republic democrate of Congo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bope142" alt="bope142" /></a> </p>
-
 - 🔭 I’m currently working on [NULEVICES](https://web.facebook.com/nulevices/)
 
 - 🌱 I’m currently learning **NodeJs and React**
