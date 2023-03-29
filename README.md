@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norbert Yemuang Bope</h1>
 <h3 align="center">A passionate frontend developer and developer full-stack Delphi from Republic democrate of Congo</h3>
 
-- 🔭 I’m currently working on [NULEVICES](https://web.facebook.com/nulevices/)
+- 🔭 I’m currently working at [NULEVICES](https://web.facebook.com/nulevices/)
 
 - 🌱 I’m currently learning **NodeJs and React**
 
