@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Norbert Yemuang Bope</h1>
 <h3 align="center">A passionate frontend developer and developer full-stack Delphi from Republic democrate of Congo</h3>
 
-- 🔭 I’m currently working at [NULEVICES](https://web.facebook.com/nulevices/)
+- 🔭 I’m currently working on [NULEVICES](https://web.facebook.com/nulevices/)
 
 - 🌱 I’m currently learning **NodeJs and React**
 
-- 👨‍💻 All of my projects are available at [https://yemuangboperesume.netlify.app/](https://yemuangboperesume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://norbertdev.netlify.app/](https://norbertdev.netlify.app/)
 
 - 💬 Ask me about **HTML5,CSS3,SASS,Javascript,NodeJs,React,ExpressJs,Mysql,SQLlite3,Delphi,Firemonkey**
 
 - 📫 How to reach me **irnorbertyemuang@gmail.com**
 
-- 📄 Know about my experiences [https://yemuangboperesume.netlify.app/](https://yemuangboperesume.netlify.app/)
+- 📄 Know about my experiences [https://norbertdev.netlify.app/](https://norbertdev.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
