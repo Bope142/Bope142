@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm Norbert Yemuang Bope</h1>
-<h3 align="center">A passionate frontend developer and developer full-stack Delphi from Republic democrate of Congo</h3>
+<h1 align="center">Hi ! 👋 I'm Norbert Yemuang Bope</h1>
+<h3 align="center">Developer, UI/UX Designer, Tech Creator 💻✨ Code & Creativity in Fusion!</h3>
 
-- 🔭 I’m currently working on [NULEVICES](https://web.facebook.com/nulevices/)
+---
 
-- 🌱 I’m currently learning **NodeJs and React**
+Welcome to my GitHub profile! I'm passionate about development, UI/UX design, and technological innovation. My goal is to merge code and creativity to build unique and innovative experiences.
 
-- 👨‍💻 All of my projects are available at [https://norbertdev.netlify.app/](https://norbertdev.netlify.app/)
+### 🌍 About Me
 
-- 💬 Ask me about **HTML5,CSS3,SASS,Javascript,NodeJs,React,ExpressJs,Mysql,SQLlite3,Delphi,Firemonkey**
+- 💻  IT Developer and UI/UX Designer.
+- ✨ Enthusiastic creator exploring technological innovation.
+- 🌍 Currently based in Kinshasa, Democratic Republic of Congo.
 
-- 📫 How to reach me **irnorbertyemuang@gmail.com**
+### 🌱 Currently
 
-- 📄 Know about my experiences [https://norbertdev.netlify.app/](https://norbertdev.netlify.app/)
+- Currently exploring the wonders of **NodeJs and React**.
+
+### 👨‍💻 Projects
+
+- Explore my projects on my [personal website](https://norbertdev.netlify.app/).
+
+### 💬 Let's Talk
+
+- Need advice or help with **HTML5, CSS3, SASS, JavaScript, NodeJs, React, ExpressJs, MySQL, SQLite3, Delphi, Firemonkey**? Feel free to reach out!
+
+### 📫 Contact Me
+
+- You can contact me via email: **irnorbertyemuang@gmail.com**.
+
+### 📄 Learn More
+
+- Dive into my experiences and creations on [my website](https://norbertdev.netlify.app/).
+
+### 👩‍💻 Let's Code & Create Together!
+
+Feel free to explore my projects and get in touch for exciting collaborations. Together, let's merge code and creativity to build something extraordinary! 🌟
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
