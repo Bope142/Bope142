@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about development, UI/UX design, an
 
 ### 👨‍💻 Projects
 
-- Explore my projects on my [personal website](https://norbertdev.netlify.app/](https://react-personal-resume.vercel.app/)).
+- Explore my projects on my [personal website]([https://react-personal-resume.vercel.app/]).
 
 ### 💬 Let's Talk
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about development, UI/UX design, an
 
 ### 📄 Learn More
 
-- Dive into my experiences and creations on [my website]([https://norbertdev.netlify.app/](https://react-personal-resume.vercel.app/)]).
+- Dive into my experiences and creations on [my website]([https://react-personal-resume.vercel.app/]).
 
 ### 👩‍💻 Let's Code & Create Together!
 
