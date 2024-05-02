@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I'm passionate about development, UI/UX design, an
 - ✨ Enthusiastic creator exploring technological innovation.
 - 🌍 Currently based in Kinshasa, Democratic Republic of Congo.
 
-### 🌱 Currently
-
-- Currently exploring the wonders of **NodeJs and React**.
-
 ### 👨‍💻 Projects
 
 - Explore my projects on my [personal website](https://react-personal-resume.vercel.app/).
