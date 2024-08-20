@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! 👋 I'm Norbert Yemuang Bope</h1>
-<h3 align="center">Developer, UI/UX Designer, Tech Creator 💻✨ Code & Creativity in Fusion!</h3>
+<h3 align="center">Frontend Developer | Specialized in React & Next.js | Backend Experience with Express, Prisma, MySQL !</h3>
 
 ---
 
